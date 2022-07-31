@@ -13,3 +13,5 @@ The Three LSTMs used were:
  
  This project was made for me to learn more about RNNs and common Deep Learning practises
  It was an attempt to learn about Natural Language Processing and usimng certain libraries such as NLTK, TensorFlow and re
+
+Link to data: https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
