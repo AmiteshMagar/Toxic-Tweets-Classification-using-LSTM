@@ -1,6 +1,6 @@
 # Toxic-Tweets-Classification-using-LSTM
 
-A project made to analyze a CSV dataset obtained from Kaggle containing tweets classified on various parameters such as toxcicity and obscenity.
+A project made to analyze a CSV dataset obtained from Kaggle containing tweets classified on various parameters such as toxicity and obscenity.
 Steps taken to solve the problem:
 1. Cleaning data by removing non-ascii characters, special characters, etc. 
 2. Employing Lemmatization and removing stop words and ommisions
